@@ -1,6 +1,6 @@
 package com.example.backend_proiecto.entity;
 
-import jakarta.persistence.*; // apparently this is not supported here should look into how to change it
+import jakarta.persistence.*; // apparently this is not supported here should look into how to change it, this is for newer version
 import java.time.LocalDateTime;
 
 @Entity
